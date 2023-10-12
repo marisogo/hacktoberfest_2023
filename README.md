@@ -6,7 +6,7 @@
 
 <div align="left">🔥 Win a limited edition t-shirt for a merged PR! </div>
 <div align="left">🏆 Only 10 are up for grabs so hurry! </div>
-<div align="left"> 🙌 Big or small, your contribution matters to us!
+<div align="left">🙌 Big or small, your contribution matters to us!
  </div>
 
 <br>
