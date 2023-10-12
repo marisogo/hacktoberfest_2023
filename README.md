@@ -2,7 +2,7 @@
 
 *<div align="center">Don't miss out on the fun and register [here](https://hacktoberfest.com/) </div>* 
 
-<img align="right" src="white.png" alt="Taipy Logo" width="600" height="300" ></img>
+<img align="right" src="white.png" alt="Taipy Logo" width="60%" ></img>
 
 <div align="left">🔥 Win a limited edition t-shirt for a merged PR! </div>
 <div align="left">🏆 Only 10 are up for grabs so hurry! </div>
